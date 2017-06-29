@@ -1,8 +1,8 @@
 # trabalho-bimestral
 trabalho bimestral do Fernando D'Agostini sobre CDI e Webservice
 
-#CDI
+CDI
 Citar os escopos, Qualifiers e Factory
 
-#Webservice
+Webservice
 Citar os WSDL, XSD e Artefatos Java Criados pelo xic
