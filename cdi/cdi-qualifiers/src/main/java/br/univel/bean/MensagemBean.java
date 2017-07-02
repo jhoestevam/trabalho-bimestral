@@ -11,7 +11,7 @@ import br.univel.service.Mensageiro;
  */
 @Named
 /*
- * RequestScoped é o padrao do ManagedBean, 
+ * O escopo RequestScoped é o padrao do ManagedBean, 
  * faz com os objetos fiquem por pouco tempo em memoria
  * sendo assim o objeto fica apenas em uma requisição, na proxima os objetos não serao os mesmos
  */
