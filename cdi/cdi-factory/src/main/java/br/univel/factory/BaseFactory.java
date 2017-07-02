@@ -10,7 +10,11 @@ import br.univel.model.Retangulo;
 import br.univel.model.TiposBase;
 
 public class BaseFactory{
-
+	
+	/*
+	 * Any é um qualifier do proprio CDI
+	 * mas um qualifier omnipresente
+	 */
 	@Any
 	@Inject
 	private Instance<Base> base;
